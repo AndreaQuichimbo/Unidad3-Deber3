@@ -30,15 +30,14 @@ Ing. Darwin Omar Alulema Flores
 
 # 2. MARCO TEORICO
 
-**CAPITULO XXIII**
-
 <div align="center">
   
-</div>
+**CAPITULO XXIII**
+  
 
 **CAPITULO XXIV**
 
-<div align="center">
+![image](https://user-images.githubusercontent.com/84430867/130541950-9330ee63-3a45-4884-b3af-efb687d11a9a.png)
   
 </div>
 
