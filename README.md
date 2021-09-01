@@ -59,7 +59,7 @@ Ing. Darwin Omar Alulema Flores
 
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/84430867/131611805-74d1cd3c-474d-4fdc-b539-19775344fc40.png)
+![image](https://user-images.githubusercontent.com/84430867/131617041-7a23b154-1b47-4970-a813-b7ac36699883.png)
 
 ![image](https://user-images.githubusercontent.com/84430867/131611812-6ce6dfa1-96ca-408a-be85-817eeee103c8.png)
 
