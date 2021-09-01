@@ -73,7 +73,7 @@ a. ¿El voltaje se eleva o se reduce?
  
 </div>
 
-b. Si Es =1 00 sen ωt, ¿qué valor tiene ep cuando se devana como en la ﬁgura23-7(a)?
+b. Si Es = 100 sen ωt, ¿qué valor tiene ep cuando se devana como en la ﬁgura23-7(a)?
 
 <div align="center">
  
@@ -97,7 +97,7 @@ e. Si Ep = 800 V ∠ 0°, ¿qué valor tiene Es cuando se devana como en la ﬁg
  
 </div>
 
-5. Para la ﬁgura 23-72,determine las expresiones para v1, v2 y v3.
+5. Para la ﬁgura 23-72, determine las expresiones para v1, v2 y v3.
 
 <div align="center">
   
@@ -107,7 +107,7 @@ e. Si Ep = 800 V ∠ 0°, ¿qué valor tiene Es cuando se devana como en la ﬁg
 
 </div>
 
-7. Si, para la ﬁgura 23-73, Eg = 240 V ∠ 0°, a = 0.5, e Ig = 2A ∠ 20°, determinelo siguiente:
+7. Si, para la ﬁgura 23-73, Eg = 240 V ∠ 0°, a = 0.5, e Ig = 2A ∠ 20°, determine lo siguiente:
 
 <div align="center">
 
@@ -133,7 +133,7 @@ c. ZL
 
 </div>
 
-9. Si, para la ﬁgura 23-73, a =4, Ig = 4A ∠ 30° y ZL = 6Ω - j8Ω, determinelo siguiente:
+9. Si, para la ﬁgura 23-73, a = 4, Ig = 4A ∠ 30° y ZL = 6Ω - j8Ω, determinelo siguiente:
 
 <div align="center">
 
@@ -165,7 +165,7 @@ b. Eg
 
 </div>
 
-13.Para la ﬁgura 23-74(a), ¿qué relación de vueltas se requiere para hacer que Zp = (62.5 - j125)Ω?
+13. Para la ﬁgura 23-74(a), ¿qué relación de vueltas se requiere para hacer que Zp = (62.5 - j125)Ω?
 
 <div align="center">
 
@@ -183,7 +183,7 @@ b. Eg
 
 </div>
 
-**23-4Especiﬁcaciones del transformador de potencia**
+**23-4 Especiﬁcaciones del transformador de potencia**
 
 17. Un transformador tiene una especiﬁcación de voltaje primario de 7.2 kV, a = 0.2, y una especiﬁcación de corriente en el secundario de 3 A. ¿Cuál es la es-peciﬁcación de kVA?
 
@@ -191,7 +191,7 @@ b. Eg
  
 </div>
 
-23-5Aplicaciones del transformador
+**23-5 Aplicaciones del transformador**
 
 19. El transformador de la ﬁgura 23-25 tiene un primario de 7200 V y un secundario de 240 V con terminal central. Si la carga 1 consiste en doce lámparasde 100 W, la carga 2 es un calentador de 1500 W y la carga 3 es una horno de2400 W con Fp = 1.0, determine:
 
@@ -225,15 +225,15 @@ d. Ip
  
 </div>
 
-23.Para la ﬁgura 23-30(a), a2 = 2 y a3 = 5, Z2 = 20Ω ∠ 50°, Z3 = (12 + j4)Ω y Eg = 120 V ∠0°. Encuentre cada corriente de carga y la corriente del generador.
+23. Para la ﬁgura 23-30(a), a2 = 2 y a3 = 5, Z2 = 20Ω ∠ 50°, Z3 = (12 + j4)Ω y Eg = 120 V ∠0°. Encuentre cada corriente de carga y la corriente del generador.
 
 <div align="center">
  
 </div>
 
-**23-6Transformadores de núcleo de hierro prácticos**
+**23-6 Transformadores de núcleo de hierro prácticos**
 
-25.Para la ﬁgura 23-77, Eg = 1220 V ∠0°.
+25. Para la ﬁgura 23-77, Eg = 1220 V ∠0°.
 
 a. Dibuje el circuito equivalente.
 
@@ -247,9 +247,9 @@ b. Determine Ig, IL, y VL
  
 </div>
 
-27.Un transformador que entrega Psal = 48 kW tiene un pérdida en el núcleo de280 W y una pérdida en el cobre de 450 W. ¿Cuál es su eﬁciencia a estacarga?
+27. Un transformador que entrega Psal = 48 kW tiene un pérdida en el núcleo de280 W y una pérdida en el cobre de 450 W. ¿Cuál es su eﬁciencia a estacarga?
 
-**23-9Circuitos débilmente acoplados**
+**23-9 Circuitos débilmente acoplados**
 
 29. Para la ﬁgura 23-78,
 
