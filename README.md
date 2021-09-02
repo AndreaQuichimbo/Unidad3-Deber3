@@ -60,7 +60,13 @@ Ing. Darwin Omar Alulema Flores
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/84430867/131617041-7a23b154-1b47-4970-a813-b7ac36699883.png)
+  
+</div>
 
+Cuando el voltaje negativo e_p  se aplica a través de la corriente primaria i_p fluye en la bobina primaria debido a lo cual un flujo Φ_m se libera en el núcleo y fluye en el sentido contrario a las agujas del reloj, ahora en la dirección que se muestra Por lo tanto, el voltaje secundario es positivo para el voltaje primario positivo y negativo para el voltaje primario negativo. Por lo tanto e_s está en fase con e_p.
+
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84430867/131611812-6ce6dfa1-96ca-408a-be85-817eeee103c8.png)
 
 </div>
