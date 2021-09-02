@@ -148,18 +148,24 @@ e. Si Ep = 800 V ∠ 0°, ¿Qué valor tiene Es cuando se devana como en la ﬁg
 a. IL
 
 <div align="center">
-  
+ 
+![image](https://user-images.githubusercontent.com/84430867/131790376-36747b14-429e-4ed4-b92a-54e7bd07faf3.png)
+
 </div>
 
 b. VL
 
 <div align="center">
-  
+ 
+![image](https://user-images.githubusercontent.com/84430867/131790273-83fb4576-f0ae-499c-989d-18c76e0d7ad8.png)
+
 </div>
 
 c. ZL
 
 <div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/131790243-8e5cbc0d-2471-457a-a358-7238a8974280.png)
 
 </div>
 
