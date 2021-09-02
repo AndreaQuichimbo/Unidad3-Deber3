@@ -225,7 +225,13 @@ b. Eg
   
 ![image](https://user-images.githubusercontent.com/84430867/131614840-8e3d06ad-cb55-4031-8266-1cef78d7be37.png)
 
+![image](https://user-images.githubusercontent.com/84430867/131920184-bb37acc5-4db7-4f7d-984a-4c2c951bc8f6.png)
+
 ![image](https://user-images.githubusercontent.com/84430867/131614863-dc6a8dd2-a580-426e-a75f-dbf845012116.png)
+
+![image](https://user-images.githubusercontent.com/84430867/131920306-26f98c44-0666-48b1-9629-6655611f81c6.png)
+
+![image](https://user-images.githubusercontent.com/84430867/131920381-1afeed27-e67c-4499-92b5-2e0ae3e76e72.png)
 
 </div>
 
