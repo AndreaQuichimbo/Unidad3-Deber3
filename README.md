@@ -132,6 +132,8 @@ e. Si Ep = 800 V ∠ 0°, ¿Qué valor tiene Es cuando se devana como en la ﬁg
 ![image](https://user-images.githubusercontent.com/84430867/131612552-69eddaaa-e8be-4560-b250-7ff0359848d3.png)
 
 ![image](https://user-images.githubusercontent.com/84430867/131612573-0df8e637-46ec-46be-8368-e858942dae69.png)
+  
+![image](https://user-images.githubusercontent.com/84430867/131783964-f537569c-a3e6-40aa-b785-056b52fac215.png)
 
 </div>
 
