@@ -200,8 +200,12 @@ b. Eg
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/84430867/131614310-687d7818-f520-4966-993c-f019717e143a.png)
+  
+![image](https://user-images.githubusercontent.com/84430867/131915216-0adb2aae-f0e3-45e2-a300-d6338bf04f34.png)
 
 ![image](https://user-images.githubusercontent.com/84430867/131614362-8cb8e8f5-2fdd-4120-8c0a-efc9616686d9.png)
+
+![image](https://user-images.githubusercontent.com/84430867/131915294-68bb049f-d901-48e0-a269-482e7bf44039.png)
 
 </div>
 
