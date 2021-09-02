@@ -205,7 +205,7 @@ b. Eg
 
 ![image](https://user-images.githubusercontent.com/84430867/131614362-8cb8e8f5-2fdd-4120-8c0a-efc9616686d9.png)
 
-![image](https://user-images.githubusercontent.com/84430867/131915501-0000c3fb-cbe7-4875-b2c1-0f380643b0b1.png)
+![image](https://user-images.githubusercontent.com/84430867/131918424-acb95294-44ba-4a5c-82df-571f100b37ce.png)
 
 </div>
 
@@ -214,6 +214,8 @@ b. Eg
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/131614630-81b52399-ec59-4a5f-8c52-a2ba747d08a8.png)
+
+![image](https://user-images.githubusercontent.com/84430867/131918498-5dc89e3e-e544-4bd9-95ee-c3a44c936051.png)
 
 </div>
 
