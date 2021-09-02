@@ -205,7 +205,7 @@ b. Eg
 
 ![image](https://user-images.githubusercontent.com/84430867/131614362-8cb8e8f5-2fdd-4120-8c0a-efc9616686d9.png)
 
-![image](https://user-images.githubusercontent.com/84430867/131915294-68bb049f-d901-48e0-a269-482e7bf44039.png)
+![image](https://user-images.githubusercontent.com/84430867/131915501-0000c3fb-cbe7-4875-b2c1-0f380643b0b1.png)
 
 </div>
 
