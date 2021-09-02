@@ -241,6 +241,9 @@ b. Eg
 
 <div align="center">
  
+![image](https://user-images.githubusercontent.com/84430867/131924877-512ede97-4c88-4413-b814-3b5c4bd4ba1f.png)
+![image](https://user-images.githubusercontent.com/84430867/131924921-f98c2d7a-1c1b-4e5b-ae7d-fad2b15b59ee.png)
+
 </div>
 
 **23-5 Aplicaciones del transformador**
