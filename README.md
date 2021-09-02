@@ -53,7 +53,7 @@ Ing. Darwin Omar Alulema Flores
 
 # Problemas Capitulo XXIII
 
-**23-1Introducción**
+**23-1 Introducción**
 
 1. Para los transformadores de la ﬁgura 23-71, dibuje las formas de onda que faltan.
 
@@ -63,7 +63,7 @@ Ing. Darwin Omar Alulema Flores
   
 </div>
 
-Cuando el voltaje negativo **ep** se aplica a través del primario **ip** una corriente fluye en la bobina primaria debido a lo cual un flujo **Φm** se libera en el núcleo y fluye en el sentido contrario a las agujas del reloj, ahora en el secundario si hay una carga conectada fluye una corriente. a través de la carga debido al flujo en la dirección mostrada. Por lo tanto, el voltaje secundario es positivo para el voltaje primario positivo y negativo para el voltaje primario negativo. Por lo tanto, **es** está en fase con **ep**.
+Cuando el voltaje negativo **ep** se aplica a través del primario **ip** una corriente fluye en la bobina primaria debido a lo cual un flujo **Φm** se libera en el núcleo y fluye en el sentido contrario a las agujas del reloj, ahora en el secundario si hay una carga conectada fluye una corriente a través de la carga debido al flujo en la dirección mostrada. Por lo tanto, el voltaje secundario es positivo para el voltaje primario positivo y negativo para el voltaje primario negativo. Por lo tanto, **es** está en fase con **ep**.
 
 <div align="center">
  
@@ -71,7 +71,7 @@ Cuando el voltaje negativo **ep** se aplica a través del primario **ip** una co
 
 </div>
 
-Cuando el voltaje positivo **ep** se aplica a través del primario **ip** una corriente fluye en la bobina primaria debido a lo cual un flujo **Φm** se libera en el núcleo y fluye en el sentido de las agujas del reloj, ahora en el secundario si hay una carga conectada fluye una corriente. a través de la carga debido al flujo en la dirección mostrada. Por lo tanto, el voltaje secundario es positivo para el voltaje primario positivo y negativo para el voltaje primario negativo.
+Cuando el voltaje positivo **ep** se aplica a través del primario **ip** una corriente fluye en la bobina primaria debido a lo cual un flujo **Φm** se libera en el núcleo y fluye en el sentido de las agujas del reloj, ahora en el secundario si hay una carga conectada fluye una corriente a través de la carga debido al flujo en la dirección mostrada. Por lo tanto, el voltaje secundario es positivo para el voltaje primario positivo y negativo para el voltaje primario negativo.
 
 <div align="center">
   
@@ -85,30 +85,44 @@ a. ¿El voltaje se eleva o se reduce?
 
 <div align="center">
  
+![image](https://user-images.githubusercontent.com/84430867/131777977-d0a3e73b-174f-4776-ad0d-c4ce9b62484a.png)
+
 </div>
 
-b. Si Es = 100 sen ωt, ¿qué valor tiene ep cuando se devana como en la ﬁgura23-7(a)?
+b. Si Es = 100 sen ωt, ¿Qué valor tiene ep cuando se devana como en la ﬁgura 23-7(a)?
 
 <div align="center">
  
+![image](https://user-images.githubusercontent.com/84430867/131781211-486556a1-9cce-4f89-8f65-8fc5eefca1e3.png)
+  
+![image](https://user-images.githubusercontent.com/84430867/131778524-0ff0e1bd-8351-4a27-89d3-979484f3a8c5.png)
+
 </div>
 
-c. Si Es = 24 volts,¿qué valor tiene Ep?
+c. Si Es = 24 volts, ¿Qué valor tiene Ep?
 
 <div align="center">
  
+![image](https://user-images.githubusercontent.com/84430867/131778879-5b463641-aea4-4230-a4dc-90dfe47162d0.png)
+
 </div>
 
-d. Si Ep = 24 V ∠ 0°, ¿qué valor tiene Es cuando se devana como en la ﬁgura23-7(a)?
+d. Si Ep = 24 V ∠ 0°, ¿Qué valor tiene Es cuando se devana como en la ﬁgura 23-7(a)?
 
 <div align="center">
  
+![image](https://user-images.githubusercontent.com/84430867/131781676-b460a097-c57f-41d1-bb29-f852b8ec66f6.png)
+
 </div>
 
-e. Si Ep = 800 V ∠ 0°, ¿qué valor tiene Es cuando se devana como en la ﬁgura23-7(b)?
+e. Si Ep = 800 V ∠ 0°, ¿Qué valor tiene Es cuando se devana como en la ﬁgura 23-7(b)?
 
 <div align="center">
  
+![image](https://user-images.githubusercontent.com/84430867/131781406-5867562e-3567-452c-b045-5cb6d9ee9291.png)
+
+![image](https://user-images.githubusercontent.com/84430867/131781610-97dbe85f-4a25-4b5c-9bfe-3efeba7f999d.png)
+
 </div>
 
 5. Para la ﬁgura 23-72, determine las expresiones para v1, v2 y v3.
