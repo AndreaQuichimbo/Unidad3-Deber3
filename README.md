@@ -180,13 +180,17 @@ c. ZL
 a. VL
 
 <div align="center">
-  
+
+![image](https://user-images.githubusercontent.com/84430867/131866510-f68954cb-8915-4ce8-aaaf-87a7c1abd6b7.png)
+
 </div>
 
 b. Eg
 
 <div align="center">
-  
+
+![image](https://user-images.githubusercontent.com/84430867/131866418-2325b981-f7d4-47c2-a959-2b450c4fa724.png)
+
 </div>
 
 **23-3 Impedancia reﬂejada**
