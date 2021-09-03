@@ -359,6 +359,12 @@ b. Determine Ig, IL, y VL
  
 ![image](https://user-images.githubusercontent.com/84430867/131616228-6dee3c7e-bb1d-49d9-9398-0f86bb7b0d02.png)
 
+</div>
+
+a. 
+
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84430867/131616248-acfb5d53-0da5-490a-ac2c-123e97cdcd41.png)
 
 </div>
@@ -375,6 +381,11 @@ Dado que una corriente entra en una terminal sin puntos y las otras en una termi
   
 ![image](https://user-images.githubusercontent.com/84430867/131958922-f5cc93c4-2793-495f-bb2e-5df6c8708c31.png)
 
+</div>
+
+b.
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84430867/131616315-d884f9bd-83fe-41cc-bd92-873eb0037a1c.png)
 
 </div>
@@ -385,6 +396,12 @@ Dado que una corriente entra en una terminal sin puntos y las otras en una termi
  
 ![image](https://user-images.githubusercontent.com/84430867/131958932-f30baa35-af37-4397-8a17-719970cd8734.png)
 
+</div>
+
+c. 
+
+<div align="center">
+ 
 ![image](https://user-images.githubusercontent.com/84430867/131616344-e7612687-7750-413a-9757-a50ae3527eba.png)
 
 </div>
