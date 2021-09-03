@@ -242,6 +242,7 @@ b. Eg
 <div align="center">
  
 ![image](https://user-images.githubusercontent.com/84430867/131924877-512ede97-4c88-4413-b814-3b5c4bd4ba1f.png)
+  
 ![image](https://user-images.githubusercontent.com/84430867/131924921-f98c2d7a-1c1b-4e5b-ae7d-fad2b15b59ee.png)
 
 </div>
@@ -250,28 +251,44 @@ b. Eg
 
 19. El transformador de la ﬁgura 23-25 tiene un primario de 7200 V y un secundario de 240 V con terminal central. Si la carga 1 consiste en doce lámparasde 100 W, la carga 2 es un calentador de 1500 W y la carga 3 es una horno de2400 W con Fp = 1.0, determine:
 
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/131925170-6018cdc8-2b8d-46d4-9109-bcfbdbdc0abc.png)
+
+![image](https://user-images.githubusercontent.com/84430867/131936514-28bb5314-3b38-4f2b-b75b-529cabc8f76a.png)
+  
+</div>
+
 a. I1
 
 <div align="center">
- 
+
+![image](https://user-images.githubusercontent.com/84430867/131936252-a62aba30-3b08-41df-958d-cb56406dd8b8.png)
+
 </div>
 
 b. I2
 
 <div align="center">
- 
+
+![image](https://user-images.githubusercontent.com/84430867/131936286-2b9bb705-a94c-481e-ae4d-02ad1674be06.png)
+
 </div>
 
 c. IN 
 
 <div align="center">
- 
+
+![image](https://user-images.githubusercontent.com/84430867/131936305-2863beeb-5549-45bb-9993-04c78874fb3d.png)
+
 </div>
 
 d. Ip
 
 <div align="center">
  
+![image](https://user-images.githubusercontent.com/84430867/131936344-c2fb3cb7-328b-4207-9082-edce2707f263.png)
+
 </div>
 
 21. Un ampliﬁcador con un equivalente de Thévenin de 10V y RTh de 25Ω maneja una bocina de 4Ω a través de un transformador con una relación de vueltas de a = 5 ¿Cuánta potencia es suministrada a la bocina? ¿Qué relación devueltas produce 1 W?
