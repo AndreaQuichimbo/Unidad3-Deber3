@@ -295,31 +295,61 @@ d. Ip
 
 <div align="center">
  
+![image](https://user-images.githubusercontent.com/84430867/131945958-5ec0ea11-1573-4654-90fc-221d7d271def.png)
+
+![image](https://user-images.githubusercontent.com/84430867/131946110-ca6f1f74-5797-4420-b13c-50d50914d76f.png)
+
+![image](https://user-images.githubusercontent.com/84430867/131946185-a3faf25e-9940-4ec6-9b4c-d6df6c5fac08.png)
+
 </div>
 
 23. Para la ﬁgura 23-30(a), a2 = 2 y a3 = 5, Z2 = 20Ω ∠ 50°, Z3 = (12 + j4)Ω y Eg = 120 V ∠0°. Encuentre cada corriente de carga y la corriente del generador.
 
 <div align="center">
- 
+
+![image](https://user-images.githubusercontent.com/84430867/131946249-ecb7b0ad-5b6b-4dc3-b66a-8c04b2e81593.png)
+
+![image](https://user-images.githubusercontent.com/84430867/131950691-c6632d41-e1f9-4ae8-82fd-cf83a8ed02c5.png)
+
+![image](https://user-images.githubusercontent.com/84430867/131950716-b04b0dd4-2fcd-4114-bf7f-884d87a1d3af.png)
+
 </div>
 
 **23-6 Transformadores de núcleo de hierro prácticos**
 
 25. Para la ﬁgura 23-77, Eg = 1220 V ∠0°.
 
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/131950775-9d48e252-02c8-4ad2-85b7-7433920ba17c.png)
+
+</div>
+
 a. Dibuje el circuito equivalente.
 
 <div align="center">
  
+![image](https://user-images.githubusercontent.com/84430867/131956895-88f1d73a-6410-4658-912a-104c09ec195d.png)
+
+![image](https://user-images.githubusercontent.com/84430867/131950955-934491d9-802f-4ad0-951b-8869865f61f4.png)
+
 </div>
 
 b. Determine Ig, IL, y VL
 
 <div align="center">
  
+![image](https://user-images.githubusercontent.com/84430867/131956822-85fc1d39-ba76-4b1e-b785-8231f4ec5093.png)
+
 </div>
 
-27. Un transformador que entrega Psal = 48 kW tiene un pérdida en el núcleo de280 W y una pérdida en el cobre de 450 W. ¿Cuál es su eﬁciencia a estacarga?
+27. Un transformador que entrega Psal = 48 kW tiene un pérdida en el núcleo de 280 W y una pérdida en el cobre de 450 W. ¿Cuál es su eﬁciencia a estacarga?
+
+<div align="center">
+ 
+![image](https://user-images.githubusercontent.com/84430867/131958086-40f493fd-e803-4553-90d6-512d2865a99c.png)
+
+</div>
 
 **23-9 Circuitos débilmente acoplados**
 
@@ -331,18 +361,48 @@ b. Determine Ig, IL, y VL
 
 ![image](https://user-images.githubusercontent.com/84430867/131616248-acfb5d53-0da5-490a-ac2c-123e97cdcd41.png)
 
+</div>
+
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84430867/131616280-22384f2a-2cc9-485d-a6dc-f11396a5f144.png)
 
+</div>
+
+Dado que una corriente entra en una terminal sin puntos y las otras en una terminal con puntos, coloque un signo menos delante de M. Así:
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/131958922-f5cc93c4-2793-495f-bb2e-5df6c8708c31.png)
+
 ![image](https://user-images.githubusercontent.com/84430867/131616315-d884f9bd-83fe-41cc-bd92-873eb0037a1c.png)
+
+</div>
+
+Dado que una corriente entra en una terminal sin puntos y las otras en una terminal con puntos, coloque un signo menos delante de M. Así:
+
+<div align="center">
+ 
+![image](https://user-images.githubusercontent.com/84430867/131958932-f30baa35-af37-4397-8a17-719970cd8734.png)
 
 ![image](https://user-images.githubusercontent.com/84430867/131616344-e7612687-7750-413a-9757-a50ae3527eba.png)
 
 </div>
 
-31. Para un conjunto de bobinas acopladas, L1 = 2H, M = 0.8H y el coeﬁcientede acoplamiento es de 0.6. Determine L2.
+Dado que una corriente entra en una terminal sin puntos y las otras en una terminal con puntos, coloque un signo menos delante de M. Así:
 
 <div align="center">
- 
+
+![image](https://user-images.githubusercontent.com/84430867/131958968-3cd5960e-edc0-4bba-bd18-8834c2a079f4.png)
+
+</div>
+
+31. Para un conjunto de bobinas acopladas, L1 = 2H, M = 0.8H y el coeﬁciente de acoplamiento es de 0.6. Determine L2.
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/131959691-f49bd1f5-5b05-4269-9af0-efa4215f06b8.png)
+
 </div>
 
 # Problemas Capitulo XXIV
