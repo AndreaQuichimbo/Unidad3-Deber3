@@ -358,16 +358,12 @@ b. Determine Ig, IL, y VL
 <div align="center">
  
 ![image](https://user-images.githubusercontent.com/84430867/131616228-6dee3c7e-bb1d-49d9-9398-0f86bb7b0d02.png)
-
-</div>
-
-a. 
-
-<div align="center">
   
 ![image](https://user-images.githubusercontent.com/84430867/131616248-acfb5d53-0da5-490a-ac2c-123e97cdcd41.png)
 
 </div>
+
+a.
 
 <div align="center">
   
