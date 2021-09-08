@@ -420,6 +420,70 @@ Dado que una corriente entra en una terminal sin puntos y las otras en una termi
 
 # Problemas Capitulo XXIV
 
+25.Para la figura 24-48, suponga que las líneas tienen una impedancia Zlinea de 0.15Ω J0.25 Ω y E120V < 0°. Convierta  la carga en Y y use el equivalente de una fase para encontrar las corrientes de línea.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/132594427-49586ffe-3770-41c8-976a-3e9abd2426ca.png)
+
+</div> 
+
+27. Para el circuito de la figura 24-49,suponga que Zlinea 0.15 Ω y J 0.25 Ω y Vab=600 V<30 °.Determine Eab.
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/132594581-dbc04780-d12f-474f-9ab4-c35302a99ab7.png)
+
+</div>   
+
+29.Los mismos datos que el problema 28 excepto que el voltaje de fase en la carga es Vab=480 v <30°.Encuentre el voltaje del generador EAB, magnitud y ángulo.
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/132594809-4099fda8-4d59-4537-a404-d9f0ff15f6cd.png)
+
+</div>  
+
+31.Para la figura 24-21(a), Zy=15 Ω + j20 Ω, Z =9 Ω – j12 Ω , Zlinea=0.1 Ω + j0.1Ω, e Iab=40 A < 73.13°. Encuentre el voltaje de fase Y Van,magnitud y ángulo.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/132595046-391b1256-5c7b-4c4f-981c-34d96b433389.png)
+
+</div>  
+
+33.Repita el problema 32 para la carga balanceada de la figura 24-51, dado Ean=120 V.
+
+<div align="center">
+  
+ ![image](https://user-images.githubusercontent.com/84587293/132595187-e8c2b032-feb8-4dc8-91b0-e5a0b7a77731.png)
+ 
+</div>  
+
+35. Para la figura 24-47, calcule las potencias real, reactiva y aparente con las fórmulas para PT,QT, y ST de la tabla 24-2.(Use VL=207.8V en lugar del valor nominal de 208V.) Compare sus resultados con los del problema 34.
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/132595413-f8d5cb76-bff2-4c5f-9c7b-c33f8d786731.png)
+
+</div>  
+
+37. Para la figura 24-48,EAB  = 208 V. Calculé las potencias real, reactiva y aparente con las fórmulas para  PT,QT , y ST de la tabla 24-2.Compare sus resultados con los del problema 36.
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/132595601-01fb9491-39c5-4e52-a7a5-12df25cbbcea.png)
+  
+</div>  
+  
+39.Para la figura 24-53, si Vab=600 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.
+  
+<div align="center">  
+  
+![image](https://user-images.githubusercontent.com/84587293/132595745-ec8f7908-aa08-4203-9053-59702ad371b0.png)
+
+</div>  
+
 41.Para la figura 24-19, si Vab = 480 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.
 
 <div align="center">
