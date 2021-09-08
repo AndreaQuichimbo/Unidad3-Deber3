@@ -420,6 +420,192 @@ Dado que una corriente entra en una terminal sin puntos y las otras en una termi
 
 # Problemas Capitulo XXIV
 
+41.Para la figura 24-19, si Vab = 480 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/132586312-1c828e50-cc17-4d08-8534-f19f8cdc1941.png)
+
+![image](https://user-images.githubusercontent.com/84587293/132586351-34d12555-293a-490a-bf3b-1951042c5799.png)
+  
+</div> 
+
+43.Vab = 208 V para una carga balanceada Y, PT = 1200 W, y QT = 750 VAR/(ind). Seleccione Van como referencia y determine Ia. (Use el triángulo de potencia)
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/132586571-1a1ea942-a2de-486b-88a8-1bc46ce34023.png)
+
+</div> 
+
+45.Los capacitores de la figura 24-54 están conectados en Y y cada uno tiene el valor de C = 120 uF. Calcule el factor de potencia resultante. La frecuencia es de 60 Hz.
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/132586656-f3beaff4-2856-4c96-b782-96ccd38dbb94.png)
+
+![image](https://user-images.githubusercontent.com/84587293/132586721-11add445-c09a-4521-b307-25cd0266c16a.png)
+  
+</div> 
+
+47.Para la figura 24-47, el voltaje de fase del generador es de 120 volts.
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/132586820-df53db7e-62c2-40a0-8d07-d6a53eb31555.png)
+
+</div> 
+  
+a. Dibuje tres wattímetros correctamente en el circuito.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/132586891-a0f1923f-40e4-4f5b-9774-f1064c8cb82b.png)
+  
+</div>   
+
+b. Calcule la lectura de cada uno.
+  
+<div align="center">  
+  
+![image](https://user-images.githubusercontent.com/84587293/132586966-c9a024b1-5aa8-434f-8bcb-e8521374b5c1.png)
+  
+</div> 
+
+c. Sume las lecturas y compárelas con el resultado de 2304 W que se obtuvo en el problema 34.
+
+<div align="center">  
+
+![image](https://user-images.githubusercontent.com/84587293/132587103-b8022879-2455-461e-ab78-044a82546cf7.png)
+
+</div>   
+
+49.Para el circuito de la figura 24-56, Vab = 208 V < 30°.
+
+<div align="center">  
+  
+![image](https://user-images.githubusercontent.com/84587293/132587200-03b55459-2201-4b9d-bf56-4148d505dec9.png)
+  
+</div>    
+
+a. Determine la magnitud y ángulo de las corrientes. 
+
+<div align="center">  
+  
+![image](https://user-images.githubusercontent.com/84587293/132587284-8f7e42cb-fdad-4a8c-9475-ef12d8ef78ef.png)
+
+</div>   
+
+b. Determine la potencia por fase y la potencia total, PT.
+
+<div align="center">  
+
+![image](https://user-images.githubusercontent.com/84587293/132587370-fbfe7194-36ba-4e46-86ab-af5db17e8c63.png)
+
+</div>   
+
+c. Calcule las lecturas de cada wattímetro.
+
+<div align="center">  
+
+![image](https://user-images.githubusercontent.com/84587293/132587457-6f1dcac1-7046-40b0-837a-e63c215cb4b2.png)
+
+</div>     
+  
+d. Sume las lecturas de los medidores y compare los resultados para PT de (b).
+
+<div align="center">  
+  
+![image](https://user-images.githubusercontent.com/84587293/132587536-6afef0fe-1b10-419d-9495-22edc4ea8a62.png)
+
+</div>  
+
+51.Considere el circuito de la figura 24-56.
+
+<div align="center">  
+
+![image](https://user-images.githubusercontent.com/84587293/132587942-2268f4d2-8ae2-4e3e-b4bf-6b74f7a3c6ed.png)
+
+</div>  
+
+a. Calcule el factor de potencia a partir del ángulo de las impedancias de ase.
+
+<div align="center">  
+  
+![image](https://user-images.githubusercontent.com/84587293/132587989-c54daf55-e129-42fd-b46d-932e5ddf3423.png)
+
+</div>    
+  
+b. En el problema 49 se determinaron las lecturas del wattímetro en h = 164 W y P = 870 W. Sustituya estos valores en la ecuación -24 y calcule el factor de potencia de la carga. Compare sus resultados con los del inciso (a).
+
+<div align="center">  
+  
+![image](https://user-images.githubusercontent.com/84587293/132588073-29673016-6779-4708-9185-6f46c648be62.png)
+
+</div>      
+
+53.Para la figura 24-58, Rab = 60 ohm, Zbc = 80 ohm + j60 ohm. Calcule
+
+<div align="center">  
+  
+![image](https://user-images.githubusercontent.com/84587293/132588170-623ffcaf-fd56-416c-9d00-040bbae9331c.png)
+
+</div>      
+
+a. Las corrientes de fase y de línea. b. La potencia en cada fase y la potencia total.
+
+<div align="center">  
+
+![image](https://user-images.githubusercontent.com/84587293/132588245-616f0117-86c4-48eb-95d9-5719e777fd68.png)
+
+![image](https://user-images.githubusercontent.com/84587293/132588291-f0f2c2a7-8790-410b-a040-b2be3c55cd3e.png)
+
+![image](https://user-images.githubusercontent.com/84587293/132588326-e942260c-ab69-4886-97e2-e841dd782637.png)
+
+![image](https://user-images.githubusercontent.com/84587293/132588349-24c65fcd-b5ed-472c-8f50-ea97a0b295bd.png)
+
+</div>     
+
+55.Para la figura 24-59, calcule lo siguiente:
+
+<div align="center">  
+
+![image](https://user-images.githubusercontent.com/84587293/132588441-23e60df5-ea3b-4ff2-b179-88dbde182876.png)
+
+</div>     
+
+a. Las corrientes de línea, sus magnitudes y ángulos.
+
+<div align="center">  
+  
+![image](https://user-images.githubusercontent.com/84587293/132588552-66ecaae7-a370-4e92-8577-26f9c411e107.png)
+
+</div>     
+
+b. La corriente en el neutro.
+
+<div align="center"> 
+    
+![image](https://user-images.githubusercontent.com/84587293/132588617-a67b16e4-c66c-4323-8cc9-92cf03fbd299.png)
+
+</div>     
+
+c. La potencia en cada fase.
+
+<div align="center"> 
+  
+![image](https://user-images.githubusercontent.com/84587293/132588678-44024297-f008-473c-8f6c-5cd87feab356.png)
+
+</div>  
+
+d. Potencia total en la carga.
+
+<div align="center"> 
+
+![image](https://user-images.githubusercontent.com/84587293/132588754-604c44ec-bf4b-4564-9f7e-c28efa7bbbd6.png)
+  
+ </div>   
+  
 # 4. VIDEO
 
 # 5. CONCLUSIONES
