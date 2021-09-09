@@ -443,7 +443,20 @@ Dado que una corriente entra en una terminal sin puntos y las otras en una termi
 ![4](https://user-images.githubusercontent.com/84587172/132619507-f8385500-4b67-4600-a6a5-b0f18f220515.png)
   
 </div>
+
 # Problemas Capitulo XXIV
+
+**24-2 Conexiones básicas de circuitos trifásicos.**
+
+1.- Mientras las cargas y voltajes de la figura 24-3(c)  estén balanceados (sin tener en cuenta su valor real) las corrientes IA, IB, IC sumarán cero. Para ilustrarlo, cambie la impedancia de carga de 12 Ω a 15Ω ∠ 30° y para EAA´ = 120 V∠0°, haga los siguiente.
+
+<div align="center">
+  
+![5](https://user-images.githubusercontent.com/84587172/132619589-e763c7f0-ecd7-40d9-9dcf-d41eca3e27cb.png)
+  
+![6](https://user-images.githubusercontent.com/84587172/132619592-bc0ae96f-5d54-44cb-96d6-442f587a12e6.png)
+  
+</div>
 
 25.Para la figura 24-48, suponga que las líneas tienen una impedancia Zlinea de 0.15Ω J0.25 Ω y E120V < 0°. Convierta  la carga en Y y use el equivalente de una fase para encontrar las corrientes de línea.
 
