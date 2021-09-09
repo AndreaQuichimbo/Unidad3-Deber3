@@ -436,7 +436,14 @@ Dado que una corriente entra en una terminal sin puntos y las otras en una termi
 
 </div>
 
-41.- Escriba las ecuaciones de malla para el circuito de la figura 23-85
+37.- Los inductores de la figura 23-82 están mutuamente acoplados.¿Cuál es su inductacia equivalente? Si f = 60 Hz, ¿Cuál esla corriente en la fuente?
+
+<div align="center">
+  
+![1](https://user-images.githubusercontent.com/84587172/132627461-aa5f2b43-fb45-481c-b84e-4252698209b0.png)
+ 
+</div>
+  41.- Escriba las ecuaciones de malla para el circuito de la figura 23-85
 
 <div align="center">
      
