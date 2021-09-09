@@ -28,15 +28,36 @@ Ing. Darwin Omar Alulema Flores
 
 # 1.OBJETIVOS
 
+Objetivo General
+
+•Describir cómo un transformador acopla energía desde su primario hasta su secundario a través de un campo magnético cambiante.
+
+•Calcular potencia activa, potencia reactiva y potencia aparente en sistemas de tres fases.
+
+•Calcular el voltaje y la corriente en circuitos con transformadores con núcleo de hierro y núcleo de aire.
+
+•Comprender las aplicaciones básicas de los transformadores.
+
+Objetivos Específicos
+
+•Analizar circuitos trifásicos desbalanceados simples.
+
+•Describir analítica y gráficamente el comportamiento de la forma de onda de voltaje y corriente
+
+•describir algunas de las aplicaciones básicas de los transformadores.
+
+•determinar los circuitos equivalentes de los transformadores.
+
+•Representar los voltajes y corrientes trifásicos en forma de fasores.
+
 # 2. MARCO TEORICO
 
 <div align="center">
   
 **CAPITULO XXIII**
   
-![image](https://user-images.githubusercontent.com/84587172/132720265-e18f4fa0-09a0-4ec7-8d7a-b30ac0e70292.png)
 
-** CAPITULO XXIV **
+**CAPITULO XXIV**
 
 ![image](https://user-images.githubusercontent.com/84430867/130541950-9330ee63-3a45-4884-b3af-efb687d11a9a.png)
   
@@ -808,6 +829,14 @@ d. Potencia total en la carga.
 # 4. VIDEO
 
 # 5. CONCLUSIONES
+
+-Se denomina transformador a un elemento eléctrico que permite aumentar o disminuir la tensión en un circuito eléctrico de corriente alterna, manteniendo la potencia.
+
+-El campo magnético producido por una corriente en una bobina provoca un voltaje en la segunda bobina devanada en el mismo núcleo, los transformadores usan este efecto.
+
+-Los transformadores se usan en sistemas de potencia eléctrica para aumentar el voltaje en transmisiones a larga distancia y para disminuirlo luego otra vez a un nivel seguro para su empleo en casas y oficinas.
+
+-Se pudo ampliar el concepto análisis por computadora estableciendo relaciones entre estos valores en base a los ejercicios con los que se están trabajando en este deber. 
 
 # 6. BIBLIOGRAFÍAS
 
