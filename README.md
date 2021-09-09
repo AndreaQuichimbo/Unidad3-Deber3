@@ -34,8 +34,9 @@ Ing. Darwin Omar Alulema Flores
   
 **CAPITULO XXIII**
   
+![image](https://user-images.githubusercontent.com/84587172/132720265-e18f4fa0-09a0-4ec7-8d7a-b30ac0e70292.png)
 
-**CAPITULO XXIV**
+** CAPITULO XXIV **
 
 ![image](https://user-images.githubusercontent.com/84430867/130541950-9330ee63-3a45-4884-b3af-efb687d11a9a.png)
   
