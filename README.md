@@ -60,6 +60,8 @@ Objetivos Específicos
   
 ![image](https://user-images.githubusercontent.com/84587172/132723530-953fcf00-6ee7-43c5-8694-84c02e335314.png)
   
+![image](https://user-images.githubusercontent.com/84587172/132726633-2367917f-c3cb-419e-8c98-2887ab96d27b.png)
+  
 **CAPITULO XXIV**
 
 ![image](https://user-images.githubusercontent.com/84430867/130541950-9330ee63-3a45-4884-b3af-efb687d11a9a.png)
