@@ -443,7 +443,19 @@ Dado que una corriente entra en una terminal sin puntos y las otras en una termi
 ![1](https://user-images.githubusercontent.com/84587172/132627461-aa5f2b43-fb45-481c-b84e-4252698209b0.png)
  
 </div>
+
+**23-10 Circuitos acoplados magnéticamente con excitación sinusoidal.**
+
+39.- Para el circuito de la figura 23-83, escriba las ecuaciones de malla.
+
+<div align="center">
+    
+![12](https://user-images.githubusercontent.com/84587172/132627971-d7bebe54-cbfc-49dd-aebb-f42998655132.png)
+
+</div>
+  
   41.- Escriba las ecuaciones de malla para el circuito de la figura 23-85
+  
 
 <div align="center">
      
