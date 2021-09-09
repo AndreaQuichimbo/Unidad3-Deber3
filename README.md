@@ -458,6 +458,28 @@ Dado que una corriente entra en una terminal sin puntos y las otras en una termi
   
 </div>
 
+**24-3 Relaciones trifásicas básicas**
+
+5.- Para las cargas de la figura 24-4 Vbc = 208 V ∠ -75°.
+
+a.- Determine los voltajes línea a línea Vab y Vca
+
+b.- Determine los voltajes de fase.
+
+<div align="center">
+
+![7](https://user-images.githubusercontent.com/84587172/132619730-402e4822-2503-4ddc-a67d-a53eebd4bf53.png)
+  
+</div>
+
+9.- Una carga y balanceada tiene una impedancia Zan = 14.7 Ω ∠ 16°. Si Vcn = 120V ∠ 160°, determine todas las corrientes de línea. 
+
+<div align="center">
+
+![8](https://user-images.githubusercontent.com/84587172/132619929-0359b55d-6a36-42b2-b290-8504a5d1bdb0.png)
+  
+</div>
+
 25.Para la figura 24-48, suponga que las líneas tienen una impedancia Zlinea de 0.15Ω J0.25 Ω y E120V < 0°. Convierta  la carga en Y y use el equivalente de una fase para encontrar las corrientes de línea.
 
 <div align="center">
