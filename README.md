@@ -472,12 +472,40 @@ b.- Determine los voltajes de fase.
   
 </div>
 
+7.- Para la carga de la figura 24-47, Van= 347 V ∠ 15°. Determine todas las corrientes de línea. Dibuje el diagrama fasorial
+
+<div align="center">
+
+![8](https://user-images.githubusercontent.com/84587172/132620067-d3579d6c-146a-4436-b900-310e76a8e806.png)
+ 
+![9](https://user-images.githubusercontent.com/84587172/132620144-ca23108f-3645-4e0a-9201-d0ddf0cc0398.png)
+  
+</div>
+
 9.- Una carga y balanceada tiene una impedancia Zan = 14.7 Ω ∠ 16°. Si Vcn = 120V ∠ 160°, determine todas las corrientes de línea. 
 
 <div align="center">
 
-![8](https://user-images.githubusercontent.com/84587172/132619929-0359b55d-6a36-42b2-b290-8504a5d1bdb0.png)
+![10](https://user-images.githubusercontent.com/84587172/132620136-fbf51fce-dfd8-44d4-b72b-4c8f99222ef9.png)
+
+</div>
+
+11.- Para el circuito de la figura 24-48, Vab= 480 V ∠ 0°. Encuentre la fase y las corrientes de línea.
+
+<div align="center">
   
+![11](https://user-images.githubusercontent.com/84587172/132620177-d7ffa447-d651-4534-b3c4-f0455835ceee.png)
+
+![12](https://user-images.githubusercontent.com/84587172/132620267-84448b54-1c03-40d8-928f-34e16aa1a291.png)
+  
+</div>
+
+13.- Para el circuito de la figura 24-48, si Iab= 10 A ∠-21 °, determine todos los voltajes de línea
+
+<div align="center">
+  
+![13](https://user-images.githubusercontent.com/84587172/132620250-c07debf3-f5c2-4024-bc05-820e2b0fb0c2.png)
+
 </div>
 
 25.Para la figura 24-48, suponga que las líneas tienen una impedancia Zlinea de 0.15Ω J0.25 Ω y E120V < 0°. Convierta  la carga en Y y use el equivalente de una fase para encontrar las corrientes de línea.
