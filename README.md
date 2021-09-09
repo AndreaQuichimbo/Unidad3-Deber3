@@ -508,6 +508,14 @@ b.- Determine los voltajes de fase.
 
 </div>
 
+15.- Una carga y balanceada tiene una impedancia de fase de 24Ω ∠ 33° y un voltaje línea a línea a 600 V. Tome Van como referencia y determine todas las corrientes de línea.
+
+<div align="center">
+     
+![1](https://user-images.githubusercontent.com/84587172/132625373-e2de0a5e-5a72-4162-a223-1983f05db5a0.png)
+
+</div>
+
 **24-4 Ejemplos**
 
 <div align="center">
@@ -518,7 +526,7 @@ a. Encuentre el voltaje de fase EAN, magnitud y ángulo.
 
 b. Encuentre el voltaje de fase EAB, magnitud y ángulo
 
-![2](https://user-images.githubusercontent.com/84587172/132621602-937b101d-9a7e-45e6-aa3f-39f665562c0c.png)
+![2](https://user-images.githubusercontent.com/84587172/132621602-937b101d-9a7e-45e6-aa3f-39f665562c0c.png
 
 ![3](https://user-images.githubusercontent.com/84587172/132621621-d4b3b568-f006-4e1e-abea-c0a109d91af0.png)
 
