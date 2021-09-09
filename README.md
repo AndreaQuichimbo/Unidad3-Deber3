@@ -418,6 +418,16 @@ Dado que una corriente entra en una terminal sin puntos y las otras en una termi
 
 </div>
 
+33.- Todo igual que en el problema 32, excepto que i1 = 10 e-500t A. Encuentre las ecuaciones de los voltajes del primario y secundario. Calcúlelos a t = 1 ms.
+
+<div align="center">
+  
+![1](https://user-images.githubusercontent.com/84587172/132617760-79a3db12-f927-49cc-87f0-2f713ccd0989.png)
+
+![2](https://user-images.githubusercontent.com/84587172/132617765-bd31a475-e525-4e3d-8a56-c258d8a31a09.png)
+
+</div>
+
 # Problemas Capitulo XXIV
 
 25.Para la figura 24-48, suponga que las líneas tienen una impedancia Zlinea de 0.15Ω J0.25 Ω y E120V < 0°. Convierta  la carga en Y y use el equivalente de una fase para encontrar las corrientes de línea.
