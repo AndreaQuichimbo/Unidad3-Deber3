@@ -436,6 +436,13 @@ Dado que una corriente entra en una terminal sin puntos y las otras en una termi
 
 </div>
 
+41.- Escriba las ecuaciones de malla para el circuito de la figura 23-85
+
+<div align="center">
+     
+![4](https://user-images.githubusercontent.com/84587172/132619507-f8385500-4b67-4600-a6a5-b0f18f220515.png)
+  
+</div>
 # Problemas Capitulo XXIV
 
 25.Para la figura 24-48, suponga que las líneas tienen una impedancia Zlinea de 0.15Ω J0.25 Ω y E120V < 0°. Convierta  la carga en Y y use el equivalente de una fase para encontrar las corrientes de línea.
