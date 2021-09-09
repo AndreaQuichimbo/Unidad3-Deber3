@@ -508,6 +508,22 @@ b.- Determine los voltajes de fase.
 
 </div>
 
+**24-4 Ejemplos**
+
+<div align="center">
+  
+21.- Para la figura 24-49, Van = 120 V |_0°. Dibuje el equivalente de una sola fase y:
+
+a. Encuentre el voltaje de fase EAN, magnitud y ángulo.
+
+b. Encuentre el voltaje de fase EAB, magnitud y ángulo
+
+![2](https://user-images.githubusercontent.com/84587172/132621602-937b101d-9a7e-45e6-aa3f-39f665562c0c.png)
+
+![3](https://user-images.githubusercontent.com/84587172/132621621-d4b3b568-f006-4e1e-abea-c0a109d91af0.png)
+
+</div>
+
 25.Para la figura 24-48, suponga que las líneas tienen una impedancia Zlinea de 0.15Ω J0.25 Ω y E120V < 0°. Convierta  la carga en Y y use el equivalente de una fase para encontrar las corrientes de línea.
 
 <div align="center">
@@ -552,7 +568,7 @@ b.- Determine los voltajes de fase.
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84587293/132595413-f8d5cb76-bff2-4c5f-9c7b-c33f8d786731.png)
+  ![image](https://user-images.githubusercontent.com/84587293/132595413-f8d5cb76-bff2-4c5f-9c7b-c33f8d786731.png)
 
 </div>  
 
