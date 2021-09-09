@@ -56,7 +56,10 @@ Objetivos Específicos
   
 **CAPITULO XXIII**
   
-
+![image](https://user-images.githubusercontent.com/84587172/132723557-3cd9790c-8a10-400e-9c89-40fc270caf0d.png)
+  
+![image](https://user-images.githubusercontent.com/84587172/132723530-953fcf00-6ee7-43c5-8694-84c02e335314.png)
+  
 **CAPITULO XXIV**
 
 ![image](https://user-images.githubusercontent.com/84430867/130541950-9330ee63-3a45-4884-b3af-efb687d11a9a.png)
