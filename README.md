@@ -532,7 +532,13 @@ b. Encuentre el voltaje de fase EAB, magnitud y ángulo
 
 </div>
 
-25.Para la figura 24-48, suponga que las líneas tienen una impedancia Zlinea de 0.15Ω J0.25 Ω y E120V < 0°. Convierta  la carga en Y y use el equivalente de una fase para encontrar las corrientes de línea.
+23.- Para la figura 24-48 EAN = 120V ∠ -10°. Encuentre la corriente de línea con el método equivalente de una sola fase.
+
+<div align="center">
+     
+![2](https://user-images.githubusercontent.com/84587172/132626702-75cd4418-fd0a-40ee-8761-dd1bcb46cfbe.png)
+  
+</div>
 
 <div align="center">
   
