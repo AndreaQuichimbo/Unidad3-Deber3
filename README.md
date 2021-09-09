@@ -28,7 +28,7 @@ Ing. Darwin Omar Alulema Flores
 
 # 1.OBJETIVOS
 
-Objetivo General
+Objetivos Generales
 
 •Describir cómo un transformador acopla energía desde su primario hasta su secundario a través de un campo magnético cambiante.
 
