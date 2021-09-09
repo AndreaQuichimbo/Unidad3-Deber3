@@ -428,6 +428,14 @@ Dado que una corriente entra en una terminal sin puntos y las otras en una termi
 
 </div>
 
+35.- Para la figura  13-80, determine LT.
+
+<div align="center">
+  
+![3](https://user-images.githubusercontent.com/84587172/132617990-0d005a6f-aede-4e4e-b2e9-46f1edbb0215.png)
+
+</div>
+
 # Problemas Capitulo XXIV
 
 25.Para la figura 24-48, suponga que las líneas tienen una impedancia Zlinea de 0.15Ω J0.25 Ω y E120V < 0°. Convierta  la carga en Y y use el equivalente de una fase para encontrar las corrientes de línea.
